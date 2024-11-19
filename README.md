@@ -1,9 +1,5 @@
 # Inventory Management System - A full stack Inventory management system
 
-### Live Site: https://inventory-navy.vercel.app
-
-<!-- ### Backend Server: https://inventory-420.vercel.app -->
-
 # Features
 
 1. Authentication - Register new account and login into existing account
